@@ -1,49 +1,49 @@
 fileFormatVersion: 2
-guid: 92ea2ebb1d1c53447b9bee1bdf56fbc6
+guid: b338f5ebfe16e6a46ad2986273d7c7da
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4539154177366942849
-    second: LFC_1_0
+      213: 6414385201372235132
+    second: LF_Plain_0
   - first:
-      213: -2295079565937195176
-    second: LFC_1_1
+      213: 1271524083460001125
+    second: LF_Plain_1
   - first:
-      213: 1351467003181416727
-    second: LFC_1_2
+      213: 4947079356672467742
+    second: LF_Plain_2
   - first:
-      213: 415129075335867371
-    second: LFC_1_3
+      213: -4963870071814948646
+    second: LF_Plain_3
   - first:
-      213: 59004043197095834
-    second: LFC_1_4
+      213: 3769443167062590181
+    second: LF_Plain_4
   - first:
-      213: -7035994570727593079
-    second: LFC_1_5
+      213: -6448617975645282425
+    second: LF_Plain_5
   - first:
-      213: -6206994006010455320
-    second: LFC_1_6
+      213: -5750332245115075308
+    second: LF_Plain_6
   - first:
-      213: 9009770945854367992
-    second: LFC_1_7
+      213: -4128526593710882010
+    second: LF_Plain_7
   - first:
-      213: 2575685677334022271
-    second: LFC_1_8
+      213: -5880333742074833290
+    second: LF_Plain_8
   - first:
-      213: -5680897042462157964
-    second: LFC_1_9
+      213: 682335767721666987
+    second: LF_Plain_9
   - first:
-      213: -3379254886536738258
-    second: LFC_1_10
+      213: 5235470537786276277
+    second: LF_Plain_10
   - first:
-      213: -2767609619074447889
-    second: LFC_1_11
+      213: 8203760376413634465
+    second: LF_Plain_11
   - first:
-      213: 3133087554719298203
-    second: LFC_1_12
+      213: 3006407164180714689
+    second: LF_Plain_12
   - first:
-      213: 751216650948876974
-    second: LFC_1_13
+      213: 4686029118804012886
+    second: LF_Plain_13
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -85,7 +85,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -135,37 +135,11 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: LFC_1_0
+      name: LF_Plain_0
       rect:
         serializedVersion: 2
         x: 26
@@ -180,14 +154,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f7b105d335fa101c0800000000000000
-      internalID: -4539154177366942849
+      spriteID: c7580541b59740950800000000000000
+      internalID: 6414385201372235132
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LFC_1_1
+      name: LF_Plain_1
       rect:
         serializedVersion: 2
         x: 42
@@ -202,14 +176,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8574e0d6b4d3620e0800000000000000
-      internalID: -2295079565937195176
+      spriteID: 56dccf5ca6c55a110800000000000000
+      internalID: 1271524083460001125
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LFC_1_2
+      name: LF_Plain_2
       rect:
         serializedVersion: 2
         x: 54
@@ -224,19 +198,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7114a4a341061c210800000000000000
-      internalID: 1351467003181416727
+      spriteID: e136122d67e87a440800000000000000
+      internalID: 4947079356672467742
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LFC_1_3
+      name: LF_Plain_3
       rect:
         serializedVersion: 2
-        x: 58
-        y: 56
-        width: 262
+        x: 57
+        y: 55
+        width: 263
         height: 263
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -246,20 +220,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: beba45fc1b5d2c500800000000000000
-      internalID: 415129075335867371
+      spriteID: ad8f64a287acc1bb0800000000000000
+      internalID: -4963870071814948646
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LFC_1_4
+      name: LF_Plain_4
       rect:
         serializedVersion: 2
         x: 300
-        y: 294
+        y: 293
         width: 61
-        height: 20
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,14 +242,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a9f131b5ddf91d000800000000000000
-      internalID: 59004043197095834
+      spriteID: 5e20acdc690cf4430800000000000000
+      internalID: 3769443167062590181
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LFC_1_5
+      name: LF_Plain_5
       rect:
         serializedVersion: 2
         x: 21
@@ -290,14 +264,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 98b643a57302b5e90800000000000000
-      internalID: -7035994570727593079
+      spriteID: 78fd67d0e18e186a0800000000000000
+      internalID: -6448617975645282425
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LFC_1_6
+      name: LF_Plain_6
       rect:
         serializedVersion: 2
         x: 13
@@ -312,14 +286,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8ea94cc66d35cd9a0800000000000000
-      internalID: -6206994006010455320
+      spriteID: 41501752a47b230b0800000000000000
+      internalID: -5750332245115075308
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LFC_1_7
+      name: LF_Plain_7
       rect:
         serializedVersion: 2
         x: 41
@@ -334,14 +308,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8f8e84f70f2290d70800000000000000
-      internalID: 9009770945854367992
+      spriteID: 6230c18dfe684b6c0800000000000000
+      internalID: -4128526593710882010
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LFC_1_8
+      name: LF_Plain_8
       rect:
         serializedVersion: 2
         x: 151
@@ -356,14 +330,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f784e8a1a7caeb320800000000000000
-      internalID: 2575685677334022271
+      spriteID: 676d2eeed9bd46ea0800000000000000
+      internalID: -5880333742074833290
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LFC_1_9
+      name: LF_Plain_9
       rect:
         serializedVersion: 2
         x: 167
@@ -378,14 +352,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 473d9721d366921b0800000000000000
-      internalID: -5680897042462157964
+      spriteID: ba9e79cf3c4287900800000000000000
+      internalID: 682335767721666987
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LFC_1_10
+      name: LF_Plain_10
       rect:
         serializedVersion: 2
         x: 181
@@ -400,14 +374,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e2a8972b5997a11d0800000000000000
-      internalID: -3379254886536738258
+      spriteID: 5b936c427b028a840800000000000000
+      internalID: 5235470537786276277
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LFC_1_11
+      name: LF_Plain_11
       rect:
         serializedVersion: 2
         x: 186
@@ -422,14 +396,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fe50d1207b97799d0800000000000000
-      internalID: -2767609619074447889
+      spriteID: 1af3f82d89c99d170800000000000000
+      internalID: 8203760376413634465
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LFC_1_12
+      name: LF_Plain_12
       rect:
         serializedVersion: 2
         x: 203
@@ -444,14 +418,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b92bd3df786fa7b20800000000000000
-      internalID: 3133087554719298203
+      spriteID: 1c45e2f1367e8b920800000000000000
+      internalID: 3006407164180714689
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LFC_1_13
+      name: LF_Plain_13
       rect:
         serializedVersion: 2
         x: 217
@@ -466,8 +440,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eaa9a2d509bdc6a00800000000000000
-      internalID: 751216650948876974
+      spriteID: 65f2379e7ae180140800000000000000
+      internalID: 4686029118804012886
       vertices: []
       indices: 
       edges: []
@@ -476,7 +450,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -486,20 +460,20 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      LFC_1_0: -4539154177366942849
-      LFC_1_1: -2295079565937195176
-      LFC_1_10: -3379254886536738258
-      LFC_1_11: -2767609619074447889
-      LFC_1_12: 3133087554719298203
-      LFC_1_13: 751216650948876974
-      LFC_1_2: 1351467003181416727
-      LFC_1_3: 415129075335867371
-      LFC_1_4: 59004043197095834
-      LFC_1_5: -7035994570727593079
-      LFC_1_6: -6206994006010455320
-      LFC_1_7: 9009770945854367992
-      LFC_1_8: 2575685677334022271
-      LFC_1_9: -5680897042462157964
+      LF_Plain_0: 6414385201372235132
+      LF_Plain_1: 1271524083460001125
+      LF_Plain_10: 5235470537786276277
+      LF_Plain_11: 8203760376413634465
+      LF_Plain_12: 3006407164180714689
+      LF_Plain_13: 4686029118804012886
+      LF_Plain_2: 4947079356672467742
+      LF_Plain_3: -4963870071814948646
+      LF_Plain_4: 3769443167062590181
+      LF_Plain_5: -6448617975645282425
+      LF_Plain_6: -5750332245115075308
+      LF_Plain_7: -4128526593710882010
+      LF_Plain_8: -5880333742074833290
+      LF_Plain_9: 682335767721666987
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

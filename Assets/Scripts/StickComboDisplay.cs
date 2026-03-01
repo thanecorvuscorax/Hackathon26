@@ -17,6 +17,9 @@ public class StickComboDisplay : MonoBehaviour
     public float deadzone = 0.3f;
     private Dictionary<int, string> lookup;
 
+    LF leftPad = new LF();
+    RF rightPad = new RF();
+
     private string output = "";
 
     private bool capsOn = false;
@@ -125,7 +128,9 @@ public class StickComboDisplay : MonoBehaviour
             rightDir = numbers[rightDir - 1];
         }
         UnityEngine.Debug.Log(leftDir + " " + rightDir);
-
+        
+        leftPad.UpdateL(leftDir);
+        rightPad.UpdateR(rightDir);
 
         string[] words = updateWheel(leftDir);
 
